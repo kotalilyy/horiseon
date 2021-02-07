@@ -6,7 +6,7 @@ Are you interested in marketing your brand to become more popular? Horiseon can 
 I added semantic elements and alt attributes
 
 # Screenshot
-![image](https://user-images.githubusercontent.com/77229281/107052353-298ea600-6793-11eb-9842-05a25815e987.png)
+![horiseonimg](https://user-images.githubusercontent.com/77229281/107153217-ed457c00-6931-11eb-998d-cbf2feb07a98.png)
 
 
 # Live link

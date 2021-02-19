@@ -12,7 +12,3 @@ I added semantic elements and alt attributes
 
 # Live link
 https://kotalilyy.github.io/horiseon-search-engine/
-
-# Credits
-@Xandromus Thanks for the files! 
-Refactored by Dakota Nelson

@@ -1,4 +1,4 @@
-# horiseon-search-engine
+# horiseon
 
 ![horiseon](https://user-images.githubusercontent.com/77229281/129721130-e543faf4-1d00-47d4-bc9b-dce9c0fbe0cd.jpg)
 
@@ -10,7 +10,7 @@ This is my introduction to learning how to refactor code.
 
 ## Live link
 
-[live link](https://kotalilyy.github.io/horiseon-search-engine/)
+[live link](https://kotalilyy.github.io/horiseon/)
 
 ## Questions
 
